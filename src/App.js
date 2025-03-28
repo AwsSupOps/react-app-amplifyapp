@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> testing preview witha mplify    dev
-          
+          testing one
           
         </p>
         <a
